@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 250 150">
+  <!-- Generator: Adobe Illustrator 30.0.0, SVG Export Plug-In . SVG Version: 2.1.1 Build 123)  -->
+  <defs>
+    <style>
+      .st0 {
+        stroke: #da6c34;
+      }
+
+      .st0, .st1 {
+        fill: #fff;
+        stroke-miterlimit: 10;
+      }
+
+      .st1 {
+        stroke: #231f20;
+      }
+
+      .st2 {
+        fill: #231f20;
+        font-family: CRONDERegular, CRONDE;
+        font-size: 36px;
+      }
+    </style>
+  </defs>
+  <path class="st1" d="M74.41,81.63"/>
+  <text class="st2" transform="translate(116.18 62.73)"><tspan x="0" y="0">America</tspan><tspan x="0" y="43.2">Yoga</tspan></text>
+  <path class="st0" d="M54.62-3.92"/>
+</svg>
